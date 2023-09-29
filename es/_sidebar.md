@@ -1,1 +1,1 @@
-- [Test page](test)
+- [Test page](test.md)
