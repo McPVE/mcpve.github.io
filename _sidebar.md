@@ -1,3 +1,3 @@
-- [Read Me](README)
+- [Home](home)
 - [Example Second Page](second-page)
 - [TPA](TPA)
